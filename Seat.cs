@@ -4,6 +4,6 @@
     {
         public string SeatNumber { get; set; }
         public SeatPosition SeatPosition { get; set; }
-        public static bool IsAvailable { get; set; } = false;
+        public bool IsAvailable { get; set; }
     }
 }

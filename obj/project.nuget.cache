@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sHbyb0UWMZFbKfHMLCpHVx3N6HXOHQy28wCKDjl1NRrjOSdvVVn+PjCD8MsfxF3LerW5LOUuQMx0KWErydXdhQ==",
+  "dgSpecHash": "1dTr3YUGJzrsaUK63vNxAhm2Lh2GmIs/kRc7gugf6zlk5SzFY392VAN1aMgj4oDHXWyJweT33swXf4oslrCY0g==",
   "success": true,
-  "projectFilePath": "D:\\RiderRepos\\AirlineSeatTracker\\AirlineSeatTracker.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Lntinfotech\\AirlineSeatTracker\\AirlineSeatTracker.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

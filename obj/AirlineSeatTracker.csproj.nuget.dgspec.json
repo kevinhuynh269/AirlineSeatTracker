@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RiderRepos\\AirlineSeatTracker\\AirlineSeatTracker.csproj": {}
+    "C:\\Users\\Lntinfotech\\AirlineSeatTracker\\AirlineSeatTracker.csproj": {}
   },
   "projects": {
-    "D:\\RiderRepos\\AirlineSeatTracker\\AirlineSeatTracker.csproj": {
+    "C:\\Users\\Lntinfotech\\AirlineSeatTracker\\AirlineSeatTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RiderRepos\\AirlineSeatTracker\\AirlineSeatTracker.csproj",
+        "projectUniqueName": "C:\\Users\\Lntinfotech\\AirlineSeatTracker\\AirlineSeatTracker.csproj",
         "projectName": "AirlineSeatTracker",
-        "projectPath": "D:\\RiderRepos\\AirlineSeatTracker\\AirlineSeatTracker.csproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\RiderRepos\\AirlineSeatTracker\\obj\\",
+        "projectPath": "C:\\Users\\Lntinfotech\\AirlineSeatTracker\\AirlineSeatTracker.csproj",
+        "packagesPath": "C:\\Users\\Lntinfotech\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lntinfotech\\AirlineSeatTracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Lntinfotech\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,12 +47,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
