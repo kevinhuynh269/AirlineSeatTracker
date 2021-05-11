@@ -1,0 +1,16 @@
+D:\RiderRepos\AirlineSeatTracker\bin\Debug\net5.0\AirlineSeatTracker.exe
+D:\RiderRepos\AirlineSeatTracker\bin\Debug\net5.0\AirlineSeatTracker.deps.json
+D:\RiderRepos\AirlineSeatTracker\bin\Debug\net5.0\AirlineSeatTracker.runtimeconfig.json
+D:\RiderRepos\AirlineSeatTracker\bin\Debug\net5.0\AirlineSeatTracker.runtimeconfig.dev.json
+D:\RiderRepos\AirlineSeatTracker\bin\Debug\net5.0\AirlineSeatTracker.dll
+D:\RiderRepos\AirlineSeatTracker\bin\Debug\net5.0\ref\AirlineSeatTracker.dll
+D:\RiderRepos\AirlineSeatTracker\bin\Debug\net5.0\AirlineSeatTracker.pdb
+D:\RiderRepos\AirlineSeatTracker\obj\Debug\net5.0\AirlineSeatTracker.csprojAssemblyReference.cache
+D:\RiderRepos\AirlineSeatTracker\obj\Debug\net5.0\AirlineSeatTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderRepos\AirlineSeatTracker\obj\Debug\net5.0\AirlineSeatTracker.AssemblyInfoInputs.cache
+D:\RiderRepos\AirlineSeatTracker\obj\Debug\net5.0\AirlineSeatTracker.AssemblyInfo.cs
+D:\RiderRepos\AirlineSeatTracker\obj\Debug\net5.0\AirlineSeatTracker.csproj.CoreCompileInputs.cache
+D:\RiderRepos\AirlineSeatTracker\obj\Debug\net5.0\AirlineSeatTracker.dll
+D:\RiderRepos\AirlineSeatTracker\obj\Debug\net5.0\ref\AirlineSeatTracker.dll
+D:\RiderRepos\AirlineSeatTracker\obj\Debug\net5.0\AirlineSeatTracker.pdb
+D:\RiderRepos\AirlineSeatTracker\obj\Debug\net5.0\AirlineSeatTracker.genruntimeconfig.cache
