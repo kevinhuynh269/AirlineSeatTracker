@@ -8,19 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lntinfotech\\.nuget\\packages\\": {}
+    "C:\\Users\\StevenMSI\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lntinfotech\\AirlineSeatTracker\\AirlineSeatTracker.csproj",
+      "projectUniqueName": "C:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\AirlineSeatTracker\\AirlineSeatTracker.csproj",
       "projectName": "AirlineSeatTracker",
-      "projectPath": "C:\\Users\\Lntinfotech\\AirlineSeatTracker\\AirlineSeatTracker.csproj",
-      "packagesPath": "C:\\Users\\Lntinfotech\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lntinfotech\\AirlineSeatTracker\\obj\\",
+      "projectPath": "C:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\AirlineSeatTracker\\AirlineSeatTracker.csproj",
+      "packagesPath": "C:\\Users\\StevenMSI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\AirlineSeatTracker\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Lntinfotech\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\StevenMSI\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
